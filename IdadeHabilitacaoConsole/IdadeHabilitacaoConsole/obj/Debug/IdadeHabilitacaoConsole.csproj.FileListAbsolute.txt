@@ -1,0 +1,7 @@
+D:\net\IdadeHabilitacaoConsole\IdadeHabilitacaoConsole\bin\Debug\IdadeHabilitacaoConsole.exe.config
+D:\net\IdadeHabilitacaoConsole\IdadeHabilitacaoConsole\bin\Debug\IdadeHabilitacaoConsole.exe
+D:\net\IdadeHabilitacaoConsole\IdadeHabilitacaoConsole\bin\Debug\IdadeHabilitacaoConsole.pdb
+D:\net\IdadeHabilitacaoConsole\IdadeHabilitacaoConsole\obj\Debug\IdadeHabilitacaoConsole.csproj.AssemblyReference.cache
+D:\net\IdadeHabilitacaoConsole\IdadeHabilitacaoConsole\obj\Debug\IdadeHabilitacaoConsole.csproj.CoreCompileInputs.cache
+D:\net\IdadeHabilitacaoConsole\IdadeHabilitacaoConsole\obj\Debug\IdadeHabilitacaoConsole.exe
+D:\net\IdadeHabilitacaoConsole\IdadeHabilitacaoConsole\obj\Debug\IdadeHabilitacaoConsole.pdb
